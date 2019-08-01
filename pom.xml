@@ -29,7 +29,7 @@
             "jquery-treetable": "jquery-treetable"
             },
             "shim": {
-            "jquery-treetable": ["DEP_ID"]
+            "jquery-treetable": ["jquery"]
             }
             }
         </requirejs>
